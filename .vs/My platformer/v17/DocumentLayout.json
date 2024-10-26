@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\79375\\My platformer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7297112C-2DBD-7175-8931-5F186C05F68F}|Assembly-CSharp.csproj|c:\\users\\79375\\my platformer\\assets\\_game\\scripts\\enemy\\movebetweenpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7297112C-2DBD-7175-8931-5F186C05F68F}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\enemy\\movebetweenpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7297112C-2DBD-7175-8931-5F186C05F68F}|Assembly-CSharp.csproj|C:\\Users\\79375\\My platformer\\assets\\_game\\scripts\\aidkit\\aidkit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7297112C-2DBD-7175-8931-5F186C05F68F}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\aidkit\\aidkit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7297112C-2DBD-7175-8931-5F186C05F68F}|Assembly-CSharp.csproj|C:\\Users\\79375\\My platformer\\assets\\_game\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7297112C-2DBD-7175-8931-5F186C05F68F}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7297112C-2DBD-7175-8931-5F186C05F68F}|Assembly-CSharp.csproj|C:\\Users\\79375\\My platformer\\assets\\_game\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7297112C-2DBD-7175-8931-5F186C05F68F}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7297112C-2DBD-7175-8931-5F186C05F68F}|Assembly-CSharp.csproj|C:\\Users\\79375\\My platformer\\assets\\_game\\scripts\\player\\movement\\playerstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7297112C-2DBD-7175-8931-5F186C05F68F}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\player\\movement\\playerstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7297112C-2DBD-7175-8931-5F186C05F68F}|Assembly-CSharp.csproj|C:\\Users\\79375\\My platformer\\assets\\_game\\scripts\\player\\movement\\playerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7297112C-2DBD-7175-8931-5F186C05F68F}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\player\\movement\\playerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7297112C-2DBD-7175-8931-5F186C05F68F}|Assembly-CSharp.csproj|C:\\Users\\79375\\My platformer\\assets\\_game\\scripts\\player\\movement\\jumpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7297112C-2DBD-7175-8931-5F186C05F68F}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\player\\movement\\jumpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7297112C-2DBD-7175-8931-5F186C05F68F}|Assembly-CSharp.csproj|C:\\Users\\79375\\My platformer\\assets\\_game\\scripts\\player\\movement\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7297112C-2DBD-7175-8931-5F186C05F68F}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\player\\movement\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7297112C-2DBD-7175-8931-5F186C05F68F}|Assembly-CSharp.csproj|C:\\Users\\79375\\My platformer\\assets\\_game\\scripts\\player\\movement\\runstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7297112C-2DBD-7175-8931-5F186C05F68F}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\player\\movement\\runstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7297112C-2DBD-7175-8931-5F186C05F68F}|Assembly-CSharp.csproj|C:\\Users\\79375\\My platformer\\assets\\_game\\scripts\\player\\movement\\walkstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7297112C-2DBD-7175-8931-5F186C05F68F}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\player\\movement\\walkstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7297112C-2DBD-7175-8931-5F186C05F68F}|Assembly-CSharp.csproj|C:\\Users\\79375\\My platformer\\assets\\_game\\scripts\\player\\movement\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7297112C-2DBD-7175-8931-5F186C05F68F}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\player\\movement\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7297112C-2DBD-7175-8931-5F186C05F68F}|Assembly-CSharp.csproj|C:\\Users\\79375\\My platformer\\assets\\_game\\scripts\\coin\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7297112C-2DBD-7175-8931-5F186C05F68F}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\coin\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7297112C-2DBD-7175-8931-5F186C05F68F}|Assembly-CSharp.csproj|C:\\Users\\79375\\My platformer\\assets\\_game\\scripts\\coin\\coinspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7297112C-2DBD-7175-8931-5F186C05F68F}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\coin\\coinspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7297112C-2DBD-7175-8931-5F186C05F68F}|Assembly-CSharp.csproj|C:\\Users\\79375\\My platformer\\assets\\_game\\scripts\\player\\movement\\jump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7297112C-2DBD-7175-8931-5F186C05F68F}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\player\\movement\\jump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7297112C-2DBD-7175-8931-5F186C05F68F}|Assembly-CSharp.csproj|C:\\Users\\79375\\My platformer\\assets\\_game\\scripts\\utility\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7297112C-2DBD-7175-8931-5F186C05F68F}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\utility\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerStateMachine.cs",
+              "DocumentMoniker": "C:\\Users\\79375\\My platformer\\Assets\\_game\\Scripts\\Player\\Movement\\PlayerStateMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\_game\\Scripts\\Player\\Movement\\PlayerStateMachine.cs",
+              "ToolTip": "C:\\Users\\79375\\My platformer\\Assets\\_game\\Scripts\\Player\\Movement\\PlayerStateMachine.cs",
+              "RelativeToolTip": "Assets\\_game\\Scripts\\Player\\Movement\\PlayerStateMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:56:55.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\79375\\My platformer\\Assets\\_game\\Scripts\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\_game\\Scripts\\Player\\Player.cs",
+              "ToolTip": "C:\\Users\\79375\\My platformer\\Assets\\_game\\Scripts\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\_game\\Scripts\\Player\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:28:50.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\79375\\My platformer\\Assets\\_game\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\_game\\Scripts\\Player\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\79375\\My platformer\\Assets\\_game\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\_game\\Scripts\\Player\\PlayerHealth.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:46:50.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AidKit.cs",
+              "DocumentMoniker": "C:\\Users\\79375\\My platformer\\Assets\\_game\\Scripts\\AidKit\\AidKit.cs",
+              "RelativeDocumentMoniker": "Assets\\_game\\Scripts\\AidKit\\AidKit.cs",
+              "ToolTip": "C:\\Users\\79375\\My platformer\\Assets\\_game\\Scripts\\AidKit\\AidKit.cs",
+              "RelativeToolTip": "Assets\\_game\\Scripts\\AidKit\\AidKit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:42:57.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoveBetweenPoints.cs",
+              "DocumentMoniker": "C:\\Users\\79375\\My platformer\\Assets\\_game\\Scripts\\Enemy\\MoveBetweenPoints.cs",
+              "RelativeDocumentMoniker": "Assets\\_game\\Scripts\\Enemy\\MoveBetweenPoints.cs",
+              "ToolTip": "C:\\Users\\79375\\My platformer\\Assets\\_game\\Scripts\\Enemy\\MoveBetweenPoints.cs",
+              "RelativeToolTip": "Assets\\_game\\Scripts\\Enemy\\MoveBetweenPoints.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:13:11.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerState.cs",
+              "DocumentMoniker": "C:\\Users\\79375\\My platformer\\Assets\\_game\\Scripts\\Player\\Movement\\PlayerState.cs",
+              "RelativeDocumentMoniker": "Assets\\_game\\Scripts\\Player\\Movement\\PlayerState.cs",
+              "ToolTip": "C:\\Users\\79375\\My platformer\\Assets\\_game\\Scripts\\Player\\Movement\\PlayerState.cs",
+              "RelativeToolTip": "Assets\\_game\\Scripts\\Player\\Movement\\PlayerState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA9wAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:56:59.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JumpState.cs",
+              "DocumentMoniker": "C:\\Users\\79375\\My platformer\\Assets\\_game\\Scripts\\Player\\Movement\\JumpState.cs",
+              "RelativeDocumentMoniker": "Assets\\_game\\Scripts\\Player\\Movement\\JumpState.cs",
+              "ToolTip": "C:\\Users\\79375\\My platformer\\Assets\\_game\\Scripts\\Player\\Movement\\JumpState.cs",
+              "RelativeToolTip": "Assets\\_game\\Scripts\\Player\\Movement\\JumpState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:56:51.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Move.cs",
+              "DocumentMoniker": "C:\\Users\\79375\\My platformer\\Assets\\_game\\Scripts\\Player\\Movement\\Move.cs",
+              "RelativeDocumentMoniker": "Assets\\_game\\Scripts\\Player\\Movement\\Move.cs",
+              "ToolTip": "C:\\Users\\79375\\My platformer\\Assets\\_game\\Scripts\\Player\\Movement\\Move.cs",
+              "RelativeToolTip": "Assets\\_game\\Scripts\\Player\\Movement\\Move.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T14:32:28.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RunState.cs",
+              "DocumentMoniker": "C:\\Users\\79375\\My platformer\\Assets\\_game\\Scripts\\Player\\Movement\\RunState.cs",
+              "RelativeDocumentMoniker": "Assets\\_game\\Scripts\\Player\\Movement\\RunState.cs",
+              "ToolTip": "C:\\Users\\79375\\My platformer\\Assets\\_game\\Scripts\\Player\\Movement\\RunState.cs",
+              "RelativeToolTip": "Assets\\_game\\Scripts\\Player\\Movement\\RunState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:57:02.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WalkState.cs",
+              "DocumentMoniker": "C:\\Users\\79375\\My platformer\\Assets\\_game\\Scripts\\Player\\Movement\\WalkState.cs",
+              "RelativeDocumentMoniker": "Assets\\_game\\Scripts\\Player\\Movement\\WalkState.cs",
+              "ToolTip": "C:\\Users\\79375\\My platformer\\Assets\\_game\\Scripts\\Player\\Movement\\WalkState.cs",
+              "RelativeToolTip": "Assets\\_game\\Scripts\\Player\\Movement\\WalkState.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA5wCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:57:05.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IdleState.cs",
+              "DocumentMoniker": "C:\\Users\\79375\\My platformer\\Assets\\_game\\Scripts\\Player\\Movement\\IdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\_game\\Scripts\\Player\\Movement\\IdleState.cs",
+              "ToolTip": "C:\\Users\\79375\\My platformer\\Assets\\_game\\Scripts\\Player\\Movement\\IdleState.cs",
+              "RelativeToolTip": "Assets\\_game\\Scripts\\Player\\Movement\\IdleState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:56:45.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Jump.cs",
+              "DocumentMoniker": "C:\\Users\\79375\\My platformer\\Assets\\_game\\Scripts\\Player\\Movement\\Jump.cs",
+              "RelativeDocumentMoniker": "Assets\\_game\\Scripts\\Player\\Movement\\Jump.cs",
+              "ToolTip": "C:\\Users\\79375\\My platformer\\Assets\\_game\\Scripts\\Player\\Movement\\Jump.cs",
+              "RelativeToolTip": "Assets\\_game\\Scripts\\Player\\Movement\\Jump.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:53:15.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\79375\\My platformer\\Assets\\_game\\Scripts\\Utility\\Utility.cs",
+              "RelativeDocumentMoniker": "Assets\\_game\\Scripts\\Utility\\Utility.cs",
+              "ToolTip": "C:\\Users\\79375\\My platformer\\Assets\\_game\\Scripts\\Utility\\Utility.cs",
+              "RelativeToolTip": "Assets\\_game\\Scripts\\Utility\\Utility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:58:17.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CoinSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\79375\\My platformer\\Assets\\_game\\Scripts\\Coin\\CoinSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\_game\\Scripts\\Coin\\CoinSpawner.cs",
+              "ToolTip": "C:\\Users\\79375\\My platformer\\Assets\\_game\\Scripts\\Coin\\CoinSpawner.cs",
+              "RelativeToolTip": "Assets\\_game\\Scripts\\Coin\\CoinSpawner.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:44:38.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "C:\\Users\\79375\\My platformer\\Assets\\_game\\Scripts\\Coin\\Coin.cs",
+              "RelativeDocumentMoniker": "Assets\\_game\\Scripts\\Coin\\Coin.cs",
+              "ToolTip": "C:\\Users\\79375\\My platformer\\Assets\\_game\\Scripts\\Coin\\Coin.cs",
+              "RelativeToolTip": "Assets\\_game\\Scripts\\Coin\\Coin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:13:20.587Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
